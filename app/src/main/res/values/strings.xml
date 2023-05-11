@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidIsCool</string>
+    <string name="display">Первая кнопка</string>
+    <string name="share">Вторая кнопка</string>
+</resources>
